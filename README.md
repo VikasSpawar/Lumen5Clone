@@ -21,4 +21,4 @@ Live link : https://lumen5clone.vercel.app/
 <h2>Homepage :- </h2>
 
 
-<img  src="./screen_shots/Homepage"/>
+<img  src="./screen_shots/Homepage.PNG"/>
