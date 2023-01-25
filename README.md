@@ -22,3 +22,31 @@ Live link : https://lumen5clone.vercel.app/
 
 
 <img  src="./screen_shots/Homepage.PNG"/>
+
+
+
+
+<img  src="./screen_shots/popUp.PNG"/>
+
+
+
+
+<img  src="./screen_shots/Videos.PNG"/>
+
+
+<h2>Login / SignUp :- </h2>
+
+
+<img  src="./screen_shots/Login.PNG"/>
+
+
+
+<img  src="./screen_shots/SignUp.PNG"/>
+
+
+
+<h2>Dashboard :- </h2>
+
+
+<img  src="./screen_shots/Dashboard.PNG"/>
+
