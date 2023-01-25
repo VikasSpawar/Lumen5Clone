@@ -11,3 +11,14 @@
 •Arias of responsibility: all of the project 
 
 Live link : https://lumen5clone.vercel.app/
+
+
+
+<h2>Some Screenshots of the website :-</h2>
+
+
+
+<h2>Homepage :- </h2>
+
+
+<img  src="./screen_shots/Homepage"/>
